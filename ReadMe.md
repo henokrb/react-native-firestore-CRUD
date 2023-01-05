@@ -33,7 +33,7 @@ Put your Firestore Credentials in **src/config/firestore.js**.
 1. Clone repository
 
 ```shell
-git clone https://github.com/jackbalageru/react-native-nested-navigation-v6.git
+git clone https://github.com/jackbalageru/react-native-firestore-CRUD
 ```
 
 2. This Boilerplate uses Expo. Install dependencies, **expo start** and happy coding.
