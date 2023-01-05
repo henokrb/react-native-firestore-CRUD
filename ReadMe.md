@@ -6,23 +6,23 @@ This is a Simple React Native Expo CRUD app that uses Firestore as a Backend.
 
 ## Create Data
 
-[![image](https://github.com/jackbalageru/react-native-firestore-CRUD/blob/master/src/assets/images/RNF_CRUD_01.jpg)](https://henok.us/)
+[![image](https://github.com/jackbalageru/react-native-firestore-CRUD/blob/main/src/assets/images/RNF_CRUD_01.jpg)](https://henok.us/)
 
 ## Read Data
 
-[![image](https://github.com/jackbalageru/react-native-firestore-CRUD/blob/master/src/assets/images/RNF_CRUD_02.jpg)](https://henok.us/)
+[![image](https://github.com/jackbalageru/react-native-firestore-CRUD/blob/main/src/assets/images/RNF_CRUD_02.jpg)](https://henok.us/)
 
 ## View Single Data Details
 
-[![image](https://github.com/jackbalageru/react-native-firestore-CRUD/blob/master/src/assets/images/RNF_CRUD_03.jpg)](https://henok.us/)
+[![image](https://github.com/jackbalageru/react-native-firestore-CRUD/blob/main/src/assets/images/RNF_CRUD_03.jpg)](https://henok.us/)
 
 ## Update Data
 
-[![image](https://github.com/jackbalageru/react-native-firestore-CRUD/blob/master/src/assets/images/RNF_CRUD_04.jpg)](https://henok.us/)
+[![image](https://github.com/jackbalageru/react-native-firestore-CRUD/blob/main/src/assets/images/RNF_CRUD_04.jpg)](https://henok.us/)
 
 ## Alert Message (Optional)
 
-[![image](https://github.com/jackbalageru/react-native-firestore-CRUD/blob/master/src/assets/images/RNF_CRUD_05.jpg)](https://henok.us/)
+[![image](https://github.com/jackbalageru/react-native-firestore-CRUD/blob/main/src/assets/images/RNF_CRUD_05.jpg)](https://henok.us/)
 
 ## Tips
 
