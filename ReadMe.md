@@ -14,7 +14,7 @@ This is a Simple React Native Expo CRUD app that uses Firestore as a Backend.
 
 ## View Single Data Details
 
-With Update and Delete Icons
+With Edit and Delete Icons
 
 [![image](https://github.com/jackbalageru/react-native-firestore-CRUD/blob/main/src/assets/images/RNF_CRUD_03.jpg)](https://henok.us/)
 
